@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="Bison_Highlighter.a263334c-1cfc-420a-b703-41c274747788" Version="3.1" Language="en-US" Publisher="Polsl" />
+        <Identity Id="Bison_Highlighter.a263334c-1cfc-420a-b703-41c274747789" Version="3.1" Language="en-US" Publisher="Polsl" />
         <DisplayName>Bison Highlighter</DisplayName>
         <Description xml:space="preserve">Bison syntax highlighter extension for Visual Studio 2017.</Description>
     </Metadata>
