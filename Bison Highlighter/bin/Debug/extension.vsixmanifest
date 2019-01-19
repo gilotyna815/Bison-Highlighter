@@ -1,0 +1,19 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="Bison_Highlighter.a263334c-1cfc-420a-b703-41c274747788" Version="3.0" Language="en-US" Publisher="Mikołaj Stankiewicz" />
+    <DisplayName>Bison_Highlighter</DisplayName>
+    <Description xml:space="preserve">Bison syntax highlighter extension for Visual Studio 2017.</Description>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[15.0, 16.0)" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="[4.5,)" />
+  </Dependencies>
+  <Prerequisites>
+    <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[15.0,16.0)" DisplayName="Visual Studio core editor" />
+  </Prerequisites>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.MefComponent" Path="Bison Highlighter.dll" />
+  </Assets>
+</PackageManifest>

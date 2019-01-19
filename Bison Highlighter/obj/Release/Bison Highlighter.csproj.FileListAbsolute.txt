@@ -1,0 +1,52 @@
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Bison Highlighter.vsix
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\extension.vsixmanifest
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Editor.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Language.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Language.Intellisense.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Language.StandardClassification.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Text.Data.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Text.Logic.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Text.UI.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Text.UI.Wpf.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Utilities.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Imaging.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Threading.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\System.Threading.Tasks.Dataflow.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\EnvDTE.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.ImageCatalog.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Validation.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.MSXML.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\StreamJsonRpc.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\stdole.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Editor.xml
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Language.Intellisense.xml
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Language.StandardClassification.xml
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Text.Data.xml
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Text.Logic.xml
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Text.UI.xml
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Text.UI.Wpf.xml
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Utilities.xml
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Imaging.xml
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Threading.xml
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.ImageCatalog.xml
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Release\Microsoft.VisualStudio.Validation.xml
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\obj\Release\Bison Highlighter.csproj.CoreCompileInputs.cache
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\obj\Release\Bison Highlighter.csproj.CopyComplete
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\obj\Release\Bison Highlighter.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\obj\Release\Bison Highlighter.pdb
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\obj\Release\extension.vsixmanifest
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\obj\Release\Bison Highlighter.csprojAssemblyReference.cache

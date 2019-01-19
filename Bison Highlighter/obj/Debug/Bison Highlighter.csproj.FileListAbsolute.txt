@@ -1,0 +1,52 @@
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\obj\Debug\Bison Highlighter.csprojAssemblyReference.cache
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\obj\Debug\Bison Highlighter.csproj.CoreCompileInputs.cache
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Bison Highlighter.vsix
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\extension.vsixmanifest
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Editor.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Language.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Language.StandardClassification.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Text.Logic.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Text.UI.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\EnvDTE.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Validation.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.MSXML.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\StreamJsonRpc.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\stdole.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Editor.xml
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.xml
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Language.StandardClassification.xml
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Text.Logic.xml
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Text.UI.xml
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.xml
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\bin\Debug\Microsoft.VisualStudio.Validation.xml
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\obj\Debug\Bison Highlighter.csproj.CopyComplete
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\obj\Debug\Bison Highlighter.dll
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\obj\Debug\Bison Highlighter.pdb
+C:\Users\gilotyna815\source\repos\Bison Highlighter\Bison Highlighter\obj\Debug\extension.vsixmanifest
